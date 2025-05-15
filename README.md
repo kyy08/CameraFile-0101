@@ -10,3 +10,12 @@
 ![Image](https://github.com/user-attachments/assets/72124e55-43af-4bf7-827c-b404f692e80f)
 
 ![Image](https://github.com/user-attachments/assets/cf6b82ee-5d01-48d2-b76f-99d7e5c986a1)
+
+# Bloc
+![Image](https://github.com/user-attachments/assets/8380abaf-5f9a-48c7-98de-20f1ff433ed6)
+
+![Image](https://github.com/user-attachments/assets/175785aa-3de4-40a6-a616-be90f154ac6b)
+
+![Image](https://github.com/user-attachments/assets/e9ca0d0a-bd71-4859-a7e1-2a55d1655aee)
+
+![Image](https://github.com/user-attachments/assets/22f42532-fef8-477b-a949-f39a082db355)
