@@ -1,16 +1,12 @@
 # camera_app
 
-A new Flutter project.
+# Non Bloc
+![Image](https://github.com/user-attachments/assets/c7406de9-082d-40bb-9e54-f01fbc883a0f)
 
-## Getting Started
+![Image](https://github.com/user-attachments/assets/d6932cd1-4676-4e97-8d6a-803760d0b94e)
 
-This project is a starting point for a Flutter application.
+![Image](https://github.com/user-attachments/assets/7f7783f2-1bad-43f8-9bf9-3ab8ea8b3993)
 
-A few resources to get you started if this is your first Flutter project:
+![Image](https://github.com/user-attachments/assets/72124e55-43af-4bf7-827c-b404f692e80f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/cf6b82ee-5d01-48d2-b76f-99d7e5c986a1)
