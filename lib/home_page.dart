@@ -50,4 +50,41 @@ class HomePage extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(height: 20),
-                
+                BlocBuilder<CameraBloc, CameraState>(
+                  builder: (context, state) {
+                    final ImageFile = 
+                        state is CameraReady ? state.imageFile : null;
+
+                    return ImageFile != null
+                        ? Column(
+                          children: [
+                            Padding(
+                              padding: const EdgeInsets.all(8.0),
+                              child: Image.file(
+                                ImageFile,
+                                width: double.infinity,
+                              ),
+                            ),
+                            Text('Gambar disimpan di: ${ImageFile.path}'),
+                            ElevatedButton.icon(
+                              icon: Icon(Icons.delete),
+                              label: const Text('Hapus Gambar'),
+                              onPressed: () => context
+                                    .read<CameraBloc>()
+                                    .add(DeleteImage()),
+                            )
+                          ],
+                        )
+                      : const Padding(
+                        padding: EdgeInsets.all(12.0),
+                        child: Text('Belum ada gambar yang diambil/dipilih'),
+                      );
+                  })
+              ],
+            );
+          },
+        ),
+      ),
+    );
+  }
+}
